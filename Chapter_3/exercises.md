@@ -85,3 +85,25 @@ Enter score: 0.5
 F
 
 Run the program repeatedly as shown above to test the various different values for input.
+
+```Python
+score = float(input('What score did you get? '))
+
+if score > 1.0 or score < 0.0:
+    print('Error: Score is out of range.')
+
+elif score >= 0.9:
+    print('Your grade is an A!')
+
+elif score >= 0.8:
+    print('Your grade is a B!')
+
+elif score >= 0.7:
+    print('Your grade is a C!')
+
+elif score >= 0.6:
+    print('Your grade is a D!')
+
+else:
+    print('Your grade is a F!')
+```
