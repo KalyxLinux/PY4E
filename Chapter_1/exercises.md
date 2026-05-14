@@ -43,6 +43,7 @@ a.
 
 Exercise 5:
 What is wrong with the following code:
+
 ```Python
 primt 'Hello world!'  # There's missing parenthesis, print('hello world!')
 File "<stdin>", line 1 # print is also misspelled "primt"
@@ -82,8 +83,8 @@ d) Error because x = x - 1 is not possible mathematically
 Answer:
 b.
 
-Expxercise 8:
-Elain each of the following using an example of a human capability:
+Exercise 8:
+Explain each of the following using an example of a human capability:
 (1) Central processing unit, (2) Main Memory, (3) Secondary Memory, (4) Input Device, and (5) Output Device.
 
 For example, “What is the human equivalent to a Central Processing Unit”?
